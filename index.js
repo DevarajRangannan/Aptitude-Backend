@@ -13,7 +13,7 @@ app.use(cors({
 app.use(bodyParser.urlencoded({extended:true}))
 
 app.use("/questions",Questions_Router)
-app.use("/notes/:title",Notes_Router)
+app.use("/notes",Notes_Router)
 
 app.use((req, res)=>{
     res.status(404).send("404 error")

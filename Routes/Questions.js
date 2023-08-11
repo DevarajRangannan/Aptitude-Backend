@@ -2,7 +2,6 @@ const express = require("express")
 const router = express.Router()
 
 const Q_time_and_work = require("../Questions/time-and-work.json")
-// const N_time_and_work = require("../Notes/time-and-work.json")
 
 
 router.get("/:title",(req, res)=>{

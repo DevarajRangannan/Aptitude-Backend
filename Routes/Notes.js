@@ -1,9 +1,19 @@
 const express = require("express")
 const router = express.Router()
 
-router.get("/time-and-work",async(req, res)=>{
+const N_time_and_work = require("../Notes/time-and-work.json")
+
+router.get("/:title",async(req, res)=>{
     try{
-        res.send("time-and-work")
+        const title = req.params.title;
+        switch (title) {
+            case "time-and-work":
+                res.send(N_time_and_work)
+                break
+            default:
+                res.status(404).send("404 error")
+        }
+        
     }catch(e){
         console.log(e);
         res.status(505).send("Something went wrong")

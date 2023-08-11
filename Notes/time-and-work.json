@@ -1,0 +1,12 @@
+[
+    {
+        "type":"x and y",
+        "shortcut" : "sortcut1",
+        "example":"example1"
+    },
+    {
+        "type":"z and y",
+        "shortcut" : "sortcut2",
+        "example":"example2"
+    }
+]
