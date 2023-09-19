@@ -2,7 +2,38 @@
     {
         "type":"x and y",
         "shortcut" : "sortcut1",
-        "example":"example1"
+        "example":"example1",
+        "answer":"<div class='spl-frac'>Sum of N numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10</span></span></div><div class='spl-frac'>Sum of X numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10000000</span></span></div>"
+    },
+    {
+        "type":"x and y",
+        "shortcut" : "sortcut1",
+        "example":"example1",
+        "answer":"<div class='spl-frac'>Sum of N numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10</span></span></div><div class='spl-frac'>Sum of X numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10000000</span></span></div>"
+    },
+    {
+        "type":"x and y",
+        "shortcut" : "sortcut1",
+        "example":"example1",
+        "answer":"<div class='spl-frac'>Sum of N numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10</span></span></div><div class='spl-frac'>Sum of X numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10000000</span></span></div>"
+    },
+    {
+        "type":"x and y",
+        "shortcut" : "sortcut1",
+        "example":"example1",
+        "answer":"<div class='spl-frac'>Sum of N numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10</span></span></div><div class='spl-frac'>Sum of X numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10000000</span></span></div>"
+    },
+    {
+        "type":"x and y",
+        "shortcut" : "sortcut1",
+        "example":"example1",
+        "answer":"<div class='spl-frac'>Sum of N numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10</span></span></div><div class='spl-frac'>Sum of X numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10000000</span></span></div>"
+    },
+    {
+        "type":"x and y",
+        "shortcut" : "sortcut1",
+        "example":"example1",
+        "answer":"<div class='spl-frac'>Sum of N numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10</span></span></div><div class='spl-frac'>Sum of X numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10000000</span></span></div>"
     },
     {
         "type":"z and y",

@@ -1,7 +1,9 @@
 const express = require("express")
 const router = express.Router()
 
-const Q_time_and_work = require("../Questions/time-and-work.json")
+const time_and_work = require("../Questions/time-and-work.json")
+const problems_on_trains = require("../Questions/problems-on-trains.json")
+const time_and_distance = require("../Questions/time-and-distance")
 
 
 router.get("/:title",(req, res)=>{
@@ -9,8 +11,17 @@ router.get("/:title",(req, res)=>{
         const title = req.params.title;
         switch (title) {
             case "time-and-work":
-                res.send(Q_time_and_work)
+                res.send(time_and_work)
                 break
+                
+            case "problems-on-trains":
+                res.send(problems_on_trains)
+                break
+
+            case "time-and-distance":
+                res.send(time_and_distance)
+                break
+
             default:
                 res.status(404).send("404 error")
         }
@@ -21,6 +32,7 @@ router.get("/:title",(req, res)=>{
     }
     
 })
+
 
 
 module.exports = router

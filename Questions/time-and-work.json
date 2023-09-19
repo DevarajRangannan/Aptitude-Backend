@@ -1,5 +1,6 @@
 [
-    {
+    {   
+        "id":"time-and-work-1",
         "code":"<div> A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is : </div>",
         "options" : [
             "<span class='frac-main'><span class='frac-first'>5</span><span class='frac-sec'>3</span></span>",
@@ -7,9 +8,11 @@
             "<span class='frac-main'><span class='frac-first'>7</span><span class='frac-sec'>15</span></span>",
             "<span class='frac-main'><span class='frac-first'>8</span><span class='frac-sec'>15</span></span>"
         ],
-        "answer":4
+        "answer":4,
+        "breaf_answer":"<div class='spl-frac'>Sum of N numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10</span></span></div><div class='spl-frac'>Sum of X numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10000000</span></span></div>"
     },
-    {
+    {   
+        "id":"time-and-work-2",
         "code":"<div>A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With help of C, they did the job in 4 days only. Then, C alone can do the job in: </div>",
         "options" : [
             "<span class='spl-frac'>9 &nbsp;<span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>5</span></span> &nbsp days</span>",
@@ -20,6 +23,7 @@
         "answer":3
     },
     {
+        "id":"time-and-work-3",
         "code":"<div>A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?</div>",
         "options" : [
             "<span>12 days</span>",
@@ -30,6 +34,7 @@
         "answer":2
     },
     {
+        "id":"time-and-work-4",
         "code":"<div>A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in:</div>",
         "options" : [
             "<span>20 days</span>",
@@ -40,6 +45,7 @@
         "answer":2
     },
     {
+        "id":"time-and-work-5",
         "code":"<div>A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?</div>",
         "options" : [
             "<span>Rs. 375</span>",
@@ -50,6 +56,8 @@
         "answer":2
     },
     {
+        
+        "id":"time-and-work-6",
         "code":"<div>If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be:</div>",
         "options" : [
             "<span>4 days</span>",
@@ -60,6 +68,7 @@
         "answer":1
     },
     {
+        "id":"time-and-work-7",
         "code":"<div>A can do a piece of work in 4 hours; B and C together can do it in 3 hours, while A and C together can do it in 2 hours. How long will B alone take to do it?</div>",
         "options" : [
             "<span>8 days</span>",
@@ -70,6 +79,7 @@
         "answer":3  
     },
     {
+        "id":"time-and-work-8",
         "code":"<div>A can do a certain work in the same time in which B and C together can do it. If A and B together could do it in 10 days and C alone in 50 days, then B alone could do it in:</div>",
         "options" : [
             "<span>15 days</span>",
@@ -80,6 +90,7 @@
         "answer":3  
     },
     {
+        "id":"time-and-work-9",
         "code":"<div>A does 80% of a work in 20 days. He then calls in B and they together finish the remaining work in 3 days. How long B alone would take to do the whole work?</div>",
         "options" : [
             "<span>23 days</span>",
@@ -90,6 +101,339 @@
         "answer":3  
     },  
     {
+        "id":"time-and-work-10",
+        "code":"<div>A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 A.M. while machine P is closed at 11 A.M. and the remaining two machines complete work. Approximately at what time will the work (to print one lakh books) be finished ?</div>",
+        "options" : [
+            "<span>11:30 A.M.</span>",
+            "<span>10:00 Noon</span>",
+            "<span>12:30 P.M.</span>",
+            "<span>01:00 P.M.</span>"
+        ],
+        "answer":4
+    },
+    {
+        "id":"time-and-work-11",
+        "code":"<div> A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is : </div>",
+        "options" : [
+            "<span class='frac-main'><span class='frac-first'>5</span><span class='frac-sec'>3</span></span>",
+            "<span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10</span></span>",
+            "<span class='frac-main'><span class='frac-first'>7</span><span class='frac-sec'>15</span></span>",
+            "<span class='frac-main'><span class='frac-first'>8</span><span class='frac-sec'>15</span></span>"
+        ],
+        "answer":4
+    },
+    {
+        "id":"time-and-work-12",
+        "code":"<div>A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With help of C, they did the job in 4 days only. Then, C alone can do the job in: </div>",
+        "options" : [
+            "<span class='spl-frac'>9 &nbsp;<span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>5</span></span> &nbsp days</span>",
+            "<span class='spl-frac'>9&nbsp;<span class='frac-main'><span class='frac-first'>2</span><span class='frac-sec'>5</span></span> &nbsp days</span>",
+            "<span class='spl-frac'>9&nbsp;<span class='frac-main'><span class='frac-first'>3</span><span class='frac-sec'>5</span></span> &nbsp days</span>",
+            "<span>10</span>"
+        ],
+        "answer":3
+    },
+    {
+        "id":"time-and-work-13",
+        "code":"<div>A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?</div>",
+        "options" : [
+            "<span>12 days</span>",
+            "<span>15 days</span>",
+            "<span>16 days</span>",
+            "<span>18 days</span>"
+        ],
+        "answer":2
+    },
+    {
+        "id":"time-and-work-14",
+        "code":"<div>A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in:</div>",
+        "options" : [
+            "<span>20 days</span>",
+            "<span class='spl-frac'>22 &nbsp;<span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>2</span></span> &nbsp days</span>",
+            "<span>25 days</span>",
+            "<span>30 days</span>"
+        ],
+        "answer":2
+    },
+    {
+        "id":"time-and-work-15",
+        "code":"<div>A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?</div>",
+        "options" : [
+            "<span>Rs. 375</span>",
+            "<span>Rs. 400</span>",
+            "<span>Rs. 600</span>",
+            "<span>Rs. 800</span>"
+        ],
+        "answer":2
+    },
+    {
+        "id":"time-and-work-16",
+        "code":"<div>If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be:</div>",
+        "options" : [
+            "<span>4 days</span>",
+            "<span>5 days</span>",
+            "<span>6 days</span>",
+            "<span>7 days</span>"
+        ],
+        "answer":1
+    },
+    {
+        "id":"time-and-work-17",
+        "code":"<div>A can do a piece of work in 4 hours; B and C together can do it in 3 hours, while A and C together can do it in 2 hours. How long will B alone take to do it?</div>",
+        "options" : [
+            "<span>8 days</span>",
+            "<span>10 days</span>",
+            "<span>12 days</span>",
+            "<span>24 days</span>"
+        ],
+        "answer":3  
+    },
+    {
+        "id":"time-and-work-18",
+        "code":"<div>A can do a certain work in the same time in which B and C together can do it. If A and B together could do it in 10 days and C alone in 50 days, then B alone could do it in:</div>",
+        "options" : [
+            "<span>15 days</span>",
+            "<span>20 days</span>",
+            "<span class='spl-frac'>37 &nbsp;<span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>2</span></span> &nbsp days</span>",
+            "<span>30 days</span>"
+        ],
+        "answer":3  
+    },
+    {
+        "id":"time-and-work-19",
+        "code":"<div>A does 80% of a work in 20 days. He then calls in B and they together finish the remaining work in 3 days. How long B alone would take to do the whole work?</div>",
+        "options" : [
+            "<span>23 days</span>",
+            "<span>37 days</span>",
+            "<span>25 days</span>",
+            "<span>40 days</span>"
+        ],
+        "answer":3  
+    },  
+    {
+        "id":"time-and-work-20",
+        "code":"<div>A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 A.M. while machine P is closed at 11 A.M. and the remaining two machines complete work. Approximately at what time will the work (to print one lakh books) be finished ?</div>",
+        "options" : [
+            "<span>11:30 A.M.</span>",
+            "<span>10:00 Noon</span>",
+            "<span>12:30 P.M.</span>",
+            "<span>01:00 P.M.</span>"
+        ],
+        "answer":4
+    },
+    {
+        "id":"time-and-work-21",
+        "code":"<div> A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is : </div>",
+        "options" : [
+            "<span class='frac-main'><span class='frac-first'>5</span><span class='frac-sec'>3</span></span>",
+            "<span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10</span></span>",
+            "<span class='frac-main'><span class='frac-first'>7</span><span class='frac-sec'>15</span></span>",
+            "<span class='frac-main'><span class='frac-first'>8</span><span class='frac-sec'>15</span></span>"
+        ],
+        "answer":4
+    },
+    {
+        "id":"time-and-work-22",
+        "code":"<div>A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With help of C, they did the job in 4 days only. Then, C alone can do the job in: </div>",
+        "options" : [
+            "<span class='spl-frac'>9 &nbsp;<span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>5</span></span> &nbsp days</span>",
+            "<span class='spl-frac'>9&nbsp;<span class='frac-main'><span class='frac-first'>2</span><span class='frac-sec'>5</span></span> &nbsp days</span>",
+            "<span class='spl-frac'>9&nbsp;<span class='frac-main'><span class='frac-first'>3</span><span class='frac-sec'>5</span></span> &nbsp days</span>",
+            "<span>10</span>"
+        ],
+        "answer":3
+    },
+    {
+        "id":"time-and-work-23",
+        "code":"<div>A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?</div>",
+        "options" : [
+            "<span>12 days</span>",
+            "<span>15 days</span>",
+            "<span>16 days</span>",
+            "<span>18 days</span>"
+        ],
+        "answer":2
+    },
+    {
+        "id":"time-and-work-24",
+        "code":"<div>A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in:</div>",
+        "options" : [
+            "<span>20 days</span>",
+            "<span class='spl-frac'>22 &nbsp;<span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>2</span></span> &nbsp days</span>",
+            "<span>25 days</span>",
+            "<span>30 days</span>"
+        ],
+        "answer":2
+    },
+    {
+        "id":"time-and-work-25",
+        "code":"<div>A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?</div>",
+        "options" : [
+            "<span>Rs. 375</span>",
+            "<span>Rs. 400</span>",
+            "<span>Rs. 600</span>",
+            "<span>Rs. 800</span>"
+        ],
+        "answer":2
+    },
+    {
+        "id":"time-and-work-26",
+        "code":"<div>If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be:</div>",
+        "options" : [
+            "<span>4 days</span>",
+            "<span>5 days</span>",
+            "<span>6 days</span>",
+            "<span>7 days</span>"
+        ],
+        "answer":1
+    },
+    {
+        "id":"time-and-work-27",
+        "code":"<div>A can do a piece of work in 4 hours; B and C together can do it in 3 hours, while A and C together can do it in 2 hours. How long will B alone take to do it?</div>",
+        "options" : [
+            "<span>8 days</span>",
+            "<span>10 days</span>",
+            "<span>12 days</span>",
+            "<span>24 days</span>"
+        ],
+        "answer":3  
+    },
+    {
+        "id":"time-and-work-28",
+        "code":"<div>A can do a certain work in the same time in which B and C together can do it. If A and B together could do it in 10 days and C alone in 50 days, then B alone could do it in:</div>",
+        "options" : [
+            "<span>15 days</span>",
+            "<span>20 days</span>",
+            "<span class='spl-frac'>37 &nbsp;<span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>2</span></span> &nbsp days</span>",
+            "<span>30 days</span>"
+        ],
+        "answer":3  
+    },
+    {
+        "id":"time-and-work-29",
+        "code":"<div>A does 80% of a work in 20 days. He then calls in B and they together finish the remaining work in 3 days. How long B alone would take to do the whole work?</div>",
+        "options" : [
+            "<span>23 days</span>",
+            "<span>37 days</span>",
+            "<span>25 days</span>",
+            "<span>40 days</span>"
+        ],
+        "answer":3  
+    },  
+    {
+        "id":"time-and-work-30",
+        "code":"<div>A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 A.M. while machine P is closed at 11 A.M. and the remaining two machines complete work. Approximately at what time will the work (to print one lakh books) be finished ?</div>",
+        "options" : [
+            "<span>11:30 A.M.</span>",
+            "<span>10:00 Noon</span>",
+            "<span>12:30 P.M.</span>",
+            "<span>01:00 P.M.</span>"
+        ],
+        "answer":4
+    },
+    {   
+        "id":"time-and-work-31",
+        "code":"<div> A can do a work in 15 days and B in 20 days. If they work on it together for 4 days, then the fraction of the work that is left is : </div>",
+        "options" : [
+            "<span class='frac-main'><span class='frac-first'>5</span><span class='frac-sec'>3</span></span>",
+            "<span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10</span></span>",
+            "<span class='frac-main'><span class='frac-first'>7</span><span class='frac-sec'>15</span></span>",
+            "<span class='frac-main'><span class='frac-first'>8</span><span class='frac-sec'>15</span></span>"
+        ],
+        "answer":4,
+        "breaf_answer":"<div class='spl-frac'>Sum of N numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10</span></span></div><div class='spl-frac'>Sum of X numbars &nbsp <span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>10000000</span></span></div>"
+    },
+    {   
+        "id":"time-and-work-32",
+        "code":"<div>A can lay railway track between two given stations in 16 days and B can do the same job in 12 days. With help of C, they did the job in 4 days only. Then, C alone can do the job in: </div>",
+        "options" : [
+            "<span class='spl-frac'>9 &nbsp;<span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>5</span></span> &nbsp days</span>",
+            "<span class='spl-frac'>9&nbsp;<span class='frac-main'><span class='frac-first'>2</span><span class='frac-sec'>5</span></span> &nbsp days</span>",
+            "<span class='spl-frac'>9&nbsp;<span class='frac-main'><span class='frac-first'>3</span><span class='frac-sec'>5</span></span> &nbsp days</span>",
+            "<span>10</span>"
+        ],
+        "answer":3
+    },
+    {
+        "id":"time-and-work-33",
+        "code":"<div>A, B and C can do a piece of work in 20, 30 and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?</div>",
+        "options" : [
+            "<span>12 days</span>",
+            "<span>15 days</span>",
+            "<span>16 days</span>",
+            "<span>18 days</span>"
+        ],
+        "answer":2
+    },
+    {
+        "id":"time-and-work-34",
+        "code":"<div>A is thrice as good as workman as B and therefore is able to finish a job in 60 days less than B. Working together, they can do it in:</div>",
+        "options" : [
+            "<span>20 days</span>",
+            "<span class='spl-frac'>22 &nbsp;<span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>2</span></span> &nbsp days</span>",
+            "<span>25 days</span>",
+            "<span>30 days</span>"
+        ],
+        "answer":2
+    },
+    {
+        "id":"time-and-work-35",
+        "code":"<div>A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?</div>",
+        "options" : [
+            "<span>Rs. 375</span>",
+            "<span>Rs. 400</span>",
+            "<span>Rs. 600</span>",
+            "<span>Rs. 800</span>"
+        ],
+        "answer":2
+    },
+    {
+        
+        "id":"time-and-work-36",
+        "code":"<div>If 6 men and 8 boys can do a piece of work in 10 days while 26 men and 48 boys can do the same in 2 days, the time taken by 15 men and 20 boys in doing the same type of work will be:</div>",
+        "options" : [
+            "<span>4 days</span>",
+            "<span>5 days</span>",
+            "<span>6 days</span>",
+            "<span>7 days</span>"
+        ],
+        "answer":1
+    },
+    {
+        "id":"time-and-work-37",
+        "code":"<div>A can do a piece of work in 4 hours; B and C together can do it in 3 hours, while A and C together can do it in 2 hours. How long will B alone take to do it?</div>",
+        "options" : [
+            "<span>8 days</span>",
+            "<span>10 days</span>",
+            "<span>12 days</span>",
+            "<span>24 days</span>"
+        ],
+        "answer":3  
+    },
+    {
+        "id":"time-and-work-38",
+        "code":"<div>A can do a certain work in the same time in which B and C together can do it. If A and B together could do it in 10 days and C alone in 50 days, then B alone could do it in:</div>",
+        "options" : [
+            "<span>15 days</span>",
+            "<span>20 days</span>",
+            "<span class='spl-frac'>37 &nbsp;<span class='frac-main'><span class='frac-first'>1</span><span class='frac-sec'>2</span></span> &nbsp days</span>",
+            "<span>30 days</span>"
+        ],
+        "answer":3  
+    },
+    {
+        "id":"time-and-work-39",
+        "code":"<div>A does 80% of a work in 20 days. He then calls in B and they together finish the remaining work in 3 days. How long B alone would take to do the whole work?</div>",
+        "options" : [
+            "<span>23 days</span>",
+            "<span>37 days</span>",
+            "<span>25 days</span>",
+            "<span>40 days</span>"
+        ],
+        "answer":3  
+    },  
+    {
+        "id":"time-and-work-40",
         "code":"<div>A machine P can print one lakh books in 8 hours, machine Q can print the same number of books in 10 hours while machine R can print them in 12 hours. All the machines are started at 9 A.M. while machine P is closed at 11 A.M. and the remaining two machines complete work. Approximately at what time will the work (to print one lakh books) be finished ?</div>",
         "options" : [
             "<span>11:30 A.M.</span>",

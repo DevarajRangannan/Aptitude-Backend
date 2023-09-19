@@ -1,0 +1,20 @@
+[
+    {
+        "type":"problems-on-trains 1 x and y",
+        "shortcut" : "sortcut1",
+        "example":"example1",
+        "answer":"slsdljfl"
+    },
+    {
+        "type":"problems-on-trains 2 x and y",
+        "shortcut" : "sortcut2",
+        "example":"example2",
+        "answer":"slsdljfl"
+    },
+    {
+        "type":"problems-on-trains 3 x and y",
+        "shortcut" : "sortcut3",
+        "example":"example3",
+        "answer":"slsdljfl"
+    }
+]
